@@ -1,0 +1,6 @@
+T012_001,Total Population
+T012_002,Total Population: White
+T012_003,Total Population: Black
+T012_004,Total Population: American Indian, Eskimo, and Aleut
+T012_005,Total Population: Asian and Pacific Islander
+T012_006,Total Population: Other
